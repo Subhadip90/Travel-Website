@@ -1,0 +1,19 @@
+/* Animations */
+img {
+  transition: transform 0.3s ease;
+}
+
+img:hover {
+  transform: scale(1.1);
+}
+
+.ctn:hover {
+  background: #484872;
+  color: #fc036b;
+  box-shadow: 1px 1px 5px;
+}
+
+li:hover {
+  color: #fc036b;
+  cursor: pointer;
+}
